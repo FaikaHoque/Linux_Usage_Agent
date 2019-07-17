@@ -8,7 +8,7 @@ Cluster Monitor Agent is an internal implement that monitors the cluster resourc
 
 Following diagram shows the architecture of three Linux hosts, a database and agents.
 
-
+![Linux-1](https://user-images.githubusercontent.com/51927068/61390437-ca073780-a888-11e9-9f71-bac0ce4a226f.jpg)
 
 ### Work Flow
 
